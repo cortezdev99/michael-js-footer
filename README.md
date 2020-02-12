@@ -11,6 +11,6 @@ $ npm install --save michael-js-footer
 Add to your Javascript Project with the following code:
 
 ```javascript
-import { footer } from 'yourName-js-footer';
+import { footer } from 'michael-js-footer';
 footer('Some Name');
 ```
